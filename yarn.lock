@@ -1955,6 +1955,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@joaosousa/react-native-progress-steps@npm:^0.4.0":
+  version: 0.4.0
+  resolution: "@joaosousa/react-native-progress-steps@npm:0.4.0"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: 543c06d1c0576468ece93e02a53f393e7abbab7064ddaae756cd96e3d5ac94474eaa9fb458265b7a59173addb8aa4688ed4f7d9cd11f1ff3ef00c807cfcddab4
+  languageName: node
+  linkType: hard
+
 "@jridgewell/gen-mapping@npm:^0.3.5":
   version: 0.3.5
   resolution: "@jridgewell/gen-mapping@npm:0.3.5"
@@ -2961,6 +2971,7 @@ __metadata:
     "@babel/core": ^7.20.0
     "@babel/preset-env": ^7.20.0
     "@babel/runtime": ^7.20.0
+    "@joaosousa/react-native-progress-steps": ^0.4.0
     "@react-native-async-storage/async-storage": ^2.0.0
     "@react-native/babel-preset": 0.75.3
     "@react-native/eslint-config": 0.75.3

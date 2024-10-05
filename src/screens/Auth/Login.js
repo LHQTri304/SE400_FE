@@ -30,7 +30,7 @@ export default Login = props => {
 
   return (
     <View style={styles.container}>
-      <Image source={images.appLogo} style={styles.imageUIT} />
+      <Image source={images.appLogo} style={styles.imgLogo} />
 
       <View style={styles.mainView}>
         <TextInputTransparent
@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.PrimaryContainer,
     flex: 1,
   },
-  imageUIT: {
+  imgLogo: {
     width: 200,
     height: 200,
     top: '10%',
